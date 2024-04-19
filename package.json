@@ -1,9 +1,9 @@
 {
-  "name": "gadatapult-website",
+  "name": "gadata",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage":"https://simplifys-com .github.io/gadatapult-website",
+  "homepage":"https://manav1888.github.io/gadata",
   "scripts": {
     "deploy":"gh-pages -d build",
     "dev": "vite",
