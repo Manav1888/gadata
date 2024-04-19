@@ -39,7 +39,7 @@ const Header = () => {
           <div className='font-bold tracking-wider text-xl'>GA4 Auditor</div>
         </Link>
 
-        <button onClick={toggleMenu} className='sm:hidden'>
+        <button onClick={toggleMenu} className='sm:hidden p-3'>
           <AiOutlineMenu size={24} />
         </button>
       </div>
