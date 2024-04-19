@@ -40,6 +40,7 @@ const Header = () => {
         </Link>
 
         <button onClick={toggleMenu} className='sm:hidden p-3'>
+
           <AiOutlineMenu size={24} />
         </button>
       </div>
