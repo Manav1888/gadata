@@ -3,7 +3,7 @@
   "private": false,
   "version": "0.0.0",
   "type": "module",
-  "homepage":"https://Manav1888.github.io/gadata",
+  "homepage":"https://Manav1888.github.io/gadata/",
   "scripts": {
     "predeploy":"npm run build",
     "deploy":"gh-pages -d build",
