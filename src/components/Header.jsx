@@ -42,7 +42,7 @@ const Header = () => {
         <button onClick={toggleMenu} className='sm:hidden p-3'>
 
           <AiOutlineMenu size={24} />
-        </button>
+        </button> 
       </div>
 
       <nav className={`menu-container flex flex-col mt-3 sm:flex-row sm:items-center ${isMenuVisible ? 'block' : 'hidden sm:block'}`}>
